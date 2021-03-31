@@ -7,3 +7,4 @@
 
 <h3 align="left">Connect with me: ismetalp98@outlook.com  or alp.eren@ug.bilkent.edu.tr</h3>
 <href> https://leetcode.com/problemset/all/ </href>
+<href #https://www.linkedin.com/in/ismet-alp-eren-7363461ba/ ><a> LinkedIn </a>  </href>
