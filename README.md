@@ -6,7 +6,4 @@
 
 
 <h3 align="left">Connect with me: ismetalp98@outlook.com  or alp.eren@ug.bilkent.edu.tr</h3>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismetalp98&show_icons=true" alt="ismetalp98" /></p>
+<href> https://leetcode.com/problemset/all/ </href>
