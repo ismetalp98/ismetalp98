@@ -10,4 +10,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismetalp98&show_icons=true&locale=en" alt="ismetalp98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismetalp98&show_icons=true" alt="ismetalp98" /></p>
