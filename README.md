@@ -5,7 +5,6 @@
 #
 
 
-<h3 align="left">Connect with me:   or alp.eren@ug.bilkent.edu.tr</h3>
-<href> ismetalp98@outlook.com</href>
+<h3 align="left">Connect with me: ismetalp98@outlook.com or alp.eren@ug.bilkent.edu.tr</h3>
 <href> <a> LeetCode </a> https://leetcode.com/problemset/all/ </href> <br>
 <href ><a> LinkedIn </a>  https://www.linkedin.com/in/ismet-alp-eren-7363461ba/ </href>
