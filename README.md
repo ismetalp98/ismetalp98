@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İsmet Alp Eren</h1>
-<h3 align="center">I am a junior computer science student at Bilkent University who is eager to learn new technologies and apply these technologies into the projects that I am working on.</h3>
+<h3 align="center">I am a senior computer science student at Bilkent University who is eager to learn new technologies and apply these technologies into the projects that I am working on.</h3>
 
 
 #
